@@ -11,6 +11,6 @@ class Song
     @artist = artist
   end
     
-  
+  self.new_by_filename 
   
 end
